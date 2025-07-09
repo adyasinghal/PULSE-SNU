@@ -28,6 +28,6 @@ Online alternative: [Google Colab](https://colab.research.google.com)
 + Flow of Control
 + Functions
 + Strings
-+ Lists
++ Lists & Sets
 + Tuples & Dictionaries
 +  
