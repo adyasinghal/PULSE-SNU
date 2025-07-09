@@ -10,6 +10,9 @@ Profiles everyone should have:
 
 ## Python Bootcamp
 
-### Installation & Setup
+### Installation & Setup  
+
+Suggested Code Editor: [VS Code](https://code.visualstudio.com)  
+Online alternative: [Google Colab](https://colab.research.google.com)  
 
 ### Topics
