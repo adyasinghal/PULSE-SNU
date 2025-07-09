@@ -16,3 +16,18 @@ Suggested Code Editor: [VS Code](https://code.visualstudio.com)
 Online alternative: [Google Colab](https://colab.research.google.com)  
 
 ### Topics
+
++ Features, Execution modes
++ **Basics of Python** :
+  + Keywords, Identifiers, Variables
+  + Comments
+  + Data Types
+  + Operators
++ Input & Output
++ Type Conversion
++ Flow of Control
++ Functions
++ Strings
++ Lists
++ Tuples & Dictionaries
++  
