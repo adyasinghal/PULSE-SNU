@@ -30,4 +30,4 @@ Online alternative: [Google Colab](https://colab.research.google.com)
 + Strings
 + Lists & Sets
 + Tuples & Dictionaries
-+  
++ Modules- math & random 
