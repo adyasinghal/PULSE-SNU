@@ -25,6 +25,7 @@ Online alternative: [Google Colab](https://colab.research.google.com)
   + Operators
 + Input & Output
 + Type Conversion
++ Looping and Jumping
 + Flow of Control
 + Functions
 + Strings
