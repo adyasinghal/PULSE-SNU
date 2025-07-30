@@ -23,7 +23,7 @@ Online alternative: [Google Colab](https://colab.research.google.com)
   + Comments
   + Data Types
   + Operators
-+ Input & Output
+  + Input & Output
 + Type Conversion
 + Looping and Jumping
 + Flow of Control
