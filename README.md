@@ -29,6 +29,6 @@ Online alternative: [Google Colab](https://colab.research.google.com)
 + Flow of Control
 + Functions
 + Strings
-+ Lists & Sets
++ Lists & Sets - https://colab.research.google.com/drive/1F87LIpuLqZs2ESbtVJKxtW54iDMw2cKJ#scrollTo=qmDygiWZuyWd
 + Tuples & Dictionaries
 + Modules- math & random 
