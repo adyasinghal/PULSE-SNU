@@ -7,6 +7,7 @@ A community to develop coding culture in SNU.
 Profiles everyone should have:  
 + [Leetcode](leetcode.com)
 + [Codeforces](codeforces.com)
++ [HackerRank](hackerrank.com)
 
 ## Python Bootcamp
 
@@ -37,5 +38,11 @@ Online alternative: [Google Colab](https://colab.research.google.com)
 (You can give these problems a try after the bootcamp)
 
 1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
-2. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+2. [Missing Number](https://leetcode.com/problems/missing-number/description/)
 3. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+4. [Two Sum](https://leetcode.com/problems/two-sum/description/)
+
+### HackerRank Problems
+(It is more beginner friendly)
+
+1. [python-loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)
