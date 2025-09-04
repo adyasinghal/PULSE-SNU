@@ -30,5 +30,7 @@ Online alternative: [Google Colab](https://colab.research.google.com)
 + Functions
 + Strings
 + Lists & Sets - https://colab.research.google.com/drive/1F87LIpuLqZs2ESbtVJKxtW54iDMw2cKJ#scrollTo=qmDygiWZuyWd
-+ Tuples & Dictionaries
++ Tuples & Dictionaries - https://colab.research.google.com/drive/1Bv0asCjr63MMYIjTC4LC2p3QUhhZKSFQ?usp=sharing
 + Modules- math & random 
+
+### Leetcode Problems
