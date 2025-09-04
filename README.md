@@ -35,7 +35,6 @@ Online alternative: [Google Colab](https://colab.research.google.com)
 + Modules- math & random 
 
 ### Leetcode Problems
-(You can give these problems a try after the bootcamp)
 
 1. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 2. [Missing Number](https://leetcode.com/problems/missing-number/description/)
