@@ -9,7 +9,24 @@ Profiles everyone should have:
 + [Codeforces](codeforces.com)
 + [HackerRank](hackerrank.com)
 
+## Solver Space
+
+**Session 4 (20 Sep 25)**   
+1. [Longest Common prefix](https://leetcode.com/problems/longest-common-prefix/description/)  
+2. [Plus One](https://leetcode.com/problems/plus-one/description/)  
+3. [Binary Search](https://leetcode.com/problems/binary-search/description/)  
+
+## C Revision
+
+**Session 5 (26 Sep 25)**  
+
+### Topics
+
++ 
+
 ## Python Bootcamp
+
+**Session 2 & 3 (3 Sep 25 & 4 Sep 25)**  
 
 ### Installation & Setup  
 
