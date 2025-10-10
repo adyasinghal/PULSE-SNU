@@ -20,9 +20,7 @@ Profiles everyone should have:
 
 **Session 5 (26 Sep 25)**  
 
-### Topics
-
-+ 
+[CSD101 Content](https://github.com/adyasinghal/PULSE-SNU/tree/main/C%20Revision)  
 
 ## Python Bootcamp
 
