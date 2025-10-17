@@ -14,7 +14,13 @@ Profiles everyone should have:
 **Session 4 (20 Sep 25)**   
 1. [Longest Common prefix](https://leetcode.com/problems/longest-common-prefix/description/)  
 2. [Plus One](https://leetcode.com/problems/plus-one/description/)  
-3. [Binary Search](https://leetcode.com/problems/binary-search/description/)  
+3. [Binary Search](https://leetcode.com/problems/binary-search/description/)
+
+**Session 5 (15 Oct 25)**  
+1. [Sublime Sequence](https://codeforces.com/contest/2148/problem/A)
+2. [Domino Pilling](https://codeforces.com/problemset/problem/50/A)
+3. [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+4. [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/)
 
 ## C Revision
 
